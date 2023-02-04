@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api", "samples\Quickstarts\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcClient", "samples\Quickstarts\4_JavaScriptClient\src\MvcClient\MvcClient.csproj", "{59156FD0-1A43-4EFC-AB11-E8D693B4F181}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfClient", "samples\Quickstarts\WpfClient\WpfClient.csproj", "{A3072E13-6256-4CC1-A762-7CC2BCD83D22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,10 @@ Global
 		{59156FD0-1A43-4EFC-AB11-E8D693B4F181}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59156FD0-1A43-4EFC-AB11-E8D693B4F181}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59156FD0-1A43-4EFC-AB11-E8D693B4F181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3072E13-6256-4CC1-A762-7CC2BCD83D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3072E13-6256-4CC1-A762-7CC2BCD83D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3072E13-6256-4CC1-A762-7CC2BCD83D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3072E13-6256-4CC1-A762-7CC2BCD83D22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -66,6 +72,7 @@ Global
 		{51719E06-DD69-403C-8DC4-5AF2B0CC5979} = {B847527B-6DD3-49F0-900E-9C1A1E173C3A}
 		{2FDA9FBD-9381-499C-913F-A0A2C677F608} = {B847527B-6DD3-49F0-900E-9C1A1E173C3A}
 		{59156FD0-1A43-4EFC-AB11-E8D693B4F181} = {B847527B-6DD3-49F0-900E-9C1A1E173C3A}
+		{A3072E13-6256-4CC1-A762-7CC2BCD83D22} = {B847527B-6DD3-49F0-900E-9C1A1E173C3A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4DE837C1-45A6-4327-876C-1E2C606A58BD}
